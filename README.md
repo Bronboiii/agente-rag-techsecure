@@ -24,12 +24,12 @@ cd agente-rag-techsecure
 D
 ```
 # 2. Crear el entorno virtual
-
+```
 python -m venv venv
 # En Windows:
 .\venv\Scripts\activate
 # En Linux/Mac:
 source venv/bin/activate
-
+```
 #Instalacion dependencias
 pip install -r requirements.txt
