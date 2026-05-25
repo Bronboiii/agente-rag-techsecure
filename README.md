@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente, la configuración del pipeline RAG 
 
 La solución optimiza los tiempos de respuesta del SOC, reduciendo hasta en un 40% el análisis manual y entregando planes de acción adaptados a las políticas de cada cliente en menos de 2 minutos.
 
-#Requisitos Técnicos e Infraestructura
+**Requisitos Técnicos e Infraestructura**
 
 El sistema está desarrollado en Python y utiliza frameworks modernos de orquestación de IA para garantizar el aislamiento de datos y el cumplimiento de normativas de privacidad (ISO 27001).
 
@@ -21,7 +21,7 @@ Siga estos pasos para replicar el entorno técnico y validar el funcionamiento d
 ```bash
 git clone [https://github.com/Bronboiii/agente-rag-techsecure.git](https://github.com/Bronboiii/agente-rag-techsecure.git)
 cd agente-rag-techsecure
-D
+
 ```
 # 2. Crear el entorno virtual
 ```
