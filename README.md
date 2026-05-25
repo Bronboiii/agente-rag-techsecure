@@ -13,7 +13,7 @@ El sistema está desarrollado en Python y utiliza frameworks modernos de orquest
 - **Base de Datos Vectorial:** ChromaDB (Local y persistente)
 - **Modelos de Lenguaje:** LLM Local o API Comercial con políticas empresariales de No Retención de Datos (ZDR).
 
-#Instrucciones de Instalación y Configuración
+**Instrucciones de Instalación y Configuración**
 
 Siga estos pasos para replicar el entorno técnico y validar el funcionamiento del sistema:
 
