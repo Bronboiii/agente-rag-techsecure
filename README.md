@@ -19,7 +19,7 @@ Siga estos pasos para replicar el entorno técnico y validar el funcionamiento d
 
 # 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/Bronboiii/agente-rag-techsecure.git](https://github.com/Bronboiii/agente-rag-techsecure.git)
+git clone https://github.com/Bronboiii/agente-rag-techsecure.git
 cd agente-rag-techsecure
 
 ```
