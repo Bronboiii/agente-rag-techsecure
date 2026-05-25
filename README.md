@@ -22,8 +22,9 @@ Siga estos pasos para replicar el entorno técnico y validar el funcionamiento d
 git clone [https://github.com/Bronboiii/agente-rag-techsecure.git](https://github.com/Bronboiii/agente-rag-techsecure.git)
 cd agente-rag-techsecure
 D
+```
+# 2. Crear el entorno virtual
 
-#Crear el entorno virtual 
 python -m venv venv
 # En Windows:
 .\venv\Scripts\activate
